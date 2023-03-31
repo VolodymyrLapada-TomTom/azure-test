@@ -1,6 +1,6 @@
 version: 3
 automerge: true
 projects:
-- dir: ./module1
+- dir: ./main/module1
 delete_source_branch_on_merge: true
 parallel_plan: true
