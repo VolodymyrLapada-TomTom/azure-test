@@ -2,6 +2,5 @@ version: 3
 automerge: true
 projects:
 - dir: ./main
-  apply_requirements: [approved]
 delete_source_branch_on_merge: true
 parallel_plan: true
